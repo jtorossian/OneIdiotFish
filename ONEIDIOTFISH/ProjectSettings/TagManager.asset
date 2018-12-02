@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - world
+  - Mouth
+  - Ball
+  - Fish
+  - Obstical
+  - Spawner
+  - Despawn
+  - SpawnZone
+  - Hook
+  - Shark
+  - Pause
+  - Catch
+  - FishSpawn
+  - Ground
+  - BirdSpawner
+  - SwordfishDespawn
+  - Top
+  - Bot
+  - Back
+  - Music
+  - MainMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2384120843
+    locked: 0
+  - name: Midground
+    uniqueID: 1280729487
+    locked: 0
+  - name: Foreground
+    uniqueID: 3422206031
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Shark
+    uniqueID: 3127920385
+    locked: 0
+  - name: Blood
+    uniqueID: 1966763601
+    locked: 0
